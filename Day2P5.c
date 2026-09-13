@@ -2,13 +2,13 @@
 
 void main(){
 
-    int age = 15;
+    int age = 5;
 
     if (age>10)
     { printf("Your age is greater than 10\n");
-        printf("We are inside if\n");
     }
-
-    if (age )
+    else{
+        printf("Your is not greater than 20");
+    }
     
 }
